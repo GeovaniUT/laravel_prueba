@@ -1,0 +1,20 @@
+tbody {
+    font-size: 100%;
+    font-style: italic;
+}
+
+tfoot {
+    font-weight: bold;
+}
+
+.display{
+    display: flex;
+    list-style: none;
+}
+
+.header{
+    background-color: rgb(75, 210, 108);
+    color: white;
+    font-size: 30px;
+}
+
